@@ -350,7 +350,13 @@ body {
 .services {
   margin-top: 60px;
 }
+.services2 {
+  flex-wrap: wrap;
+}
 
+.services2-item {
+  width: 250px;
+}
 .services h2 {
   font-family: fantasy;
 }

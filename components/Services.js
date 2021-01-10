@@ -8,7 +8,7 @@ const Services =()=>{
         <h2>Nuestros servicios</h2>
     </div>
     <div className="d-flex justify-content-around services2">
-        <div className="w-25 d-flex justify-content-center">
+        <div className="d-flex justify-content-center services2-item">
             <div>
             <h5 className="text-center">Veterinario</h5>
             <br/>
@@ -17,7 +17,7 @@ const Services =()=>{
             
 
         </div>
-        <div className="w-25 d-flex justify-content-center">
+        <div className=" d-flex justify-content-center services2-item">
             <div>
             <h5 className="text-center">Venta de suplementos</h5>
             <br/>
@@ -26,7 +26,7 @@ const Services =()=>{
             
             
         </div>
-        <div className="w-25 d-flex justify-content-center">
+        <div className=" d-flex justify-content-center services2-item">
             <div>
             <h5 className="text-center">Peluqueria</h5>
             <br/>

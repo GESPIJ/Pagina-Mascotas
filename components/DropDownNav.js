@@ -10,9 +10,9 @@ const DropDownNav=()=>{
           Navegar
         </button>
         <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-          <a className="dropdown-item" href="#">Action 1</a>
-          <a className="dropdown-item" href="#">Another action 2</a>
-          <a className="dropdown-item" href="#">Something else here</a>
+          <a className="dropdown-item" href="#">Quienes somos?</a>
+          <a className="dropdown-item" href="#">Servicios</a>
+          <a className="dropdown-item" href="#">Recomendaciones</a>
         </div>
       </div>
         </Container>
