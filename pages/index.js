@@ -12,8 +12,15 @@ import style from "../styles/module.index.css"
 const Index=()=>{
     return (
         <>  
+    
     <BarraSuperior/> 
     <Jumbotron/>
+    <div className="d-flex justify-content-start align-items-start">
+        <div>
+        <button  className="whatsapp" onClick={()=>{window.location.href="https://wa.me/5804241833510"}}>Contactanos</button>
+        </div>
+    </div>
+    
     <About/>
     <Services /> 
     <ServicesImages/>
