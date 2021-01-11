@@ -320,12 +320,20 @@ body {
   color: black;
 }
 
+#about {
+  flex-wrap: wrap;
+}
 .About1 {
+  min-width: 250px;
   width: 60%;
+  flex-shrink: 0;
 }
 
 .About1 h2 {
   font-family: fantasy;
+  min-width: 40%;
+  width: 160px;
+  flex-shrink: 0;
 }
 
 .About1 h4 {
@@ -375,9 +383,21 @@ body {
   background-image: url("/clouds.jpg");
   padding: 40px;
 }
+#recomendaciones {
+  flex-wrap: wrap;
+}
 
+.videoclass {
+  flex-wrap: wrap;
+}
+.videoind {
+  min-width: 250px;
+}
 .instagram {
   margin-bottom: 40px;
+}
+.instagram-images {
+  flex-wrap: wrap;
 }
 .instagram h3 {
   font-family: fantasy;

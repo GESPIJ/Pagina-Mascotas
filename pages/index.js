@@ -23,7 +23,6 @@ const Index=()=>{
     
     <About/>
     <Services /> 
-    <ServicesImages/>
     <Video/>
     <br/>
     <Instagram/>
