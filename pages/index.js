@@ -7,7 +7,6 @@ import Services from "../components/Services"
 import ServicesImages from "../components/ServicesImages"
 import Video from "../components/Video"
 import Instagram from "../components/Instagram"
-import Image from "next/Image"
 import style from "../styles/module.index.css"
 
 const Index=()=>{
@@ -16,7 +15,7 @@ const Index=()=>{
     <BarraSuperior/> 
     <Jumbotron/>
     <About/>
-    <Services/> 
+    <Services /> 
     <ServicesImages/>
     <Video/>
     <br/>

@@ -2,7 +2,7 @@ import styles from "../styles/module.index.css"
 
 const Services =()=>{
     return(
-        <div>
+        <div id="servicios">
         <hr/>
     <div className="d-flex justify-content-center services">
         <h2>Nuestros servicios</h2>

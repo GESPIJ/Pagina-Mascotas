@@ -2,7 +2,7 @@ import style from "../styles/module.index.css"
 const Video=()=>{
 return(
     <>
-<div className="d-flex justify-content-center recommendations">
+<div id="recomendaciones" className="d-flex justify-content-center recommendations">
     <h4 className= "mt-4">Are you taking good care of your dog?</h4>
 </div>
 <div className="videoclass d-flex justify-content-around">

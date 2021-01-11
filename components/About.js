@@ -3,7 +3,7 @@ import Image from "next/image"
 
 const About=()=>{
     return (
-        <div className="d-flex justify-content-around">
+        <div id="about" className="d-flex justify-content-around">
         <div className="About1">
             <h2>Quienes somos?</h2>
             <p>
