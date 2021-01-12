@@ -1,6 +1,7 @@
 import Image from "next/image"
 import style from "../styles/module.index.css"
 const Instagram=()=>{
+    /*Push*/
     return(
         <div className="instagram">
         <h3 className="mb-4">Siguenos en instagram</h3>
